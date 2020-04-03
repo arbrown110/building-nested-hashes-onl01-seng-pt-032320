@@ -20,8 +20,8 @@ def bonus
     }
   }
 
-  epic_tragedy
-
+  epic_tragedy[:montague][:][]= "dead"
+  epic_tragedy[][][]= "dead"
   
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
